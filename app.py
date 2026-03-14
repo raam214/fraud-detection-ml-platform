@@ -301,6 +301,6 @@ with tab3:
 st.markdown("---")
 st.markdown("""
 <div style='text-align:center; color:#555; font-size:0.85rem;'>
-    Built by <b>Ram Dukare</b> · Powered by XGBoost · FastAPI · PostgreSQL · Docker · Streamlit
+    Built by <b>Raam Patil</b> · Powered by XGBoost · FastAPI · Docker · Streamlit
 </div>
 """, unsafe_allow_html=True)
